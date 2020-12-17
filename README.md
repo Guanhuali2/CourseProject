@@ -9,3 +9,4 @@ Team Leader: Guanhua Li, Ruoyu Zhu
 directory.py is the main program that needs to run.
 Documentation is inside the code dumentation.pdf file
 Demo video is inside the Project Video Link file
+In order to run the program, you need to allow browser remote automation, Safari menu->Developer->allow remote automation
